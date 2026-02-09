@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("1. Start/Continue Routine");
+            Console.WriteLine("2. View Progess");
+            Console.WriteLine("3. Exit");
         }
     }
 }
